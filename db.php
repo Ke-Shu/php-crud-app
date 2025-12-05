@@ -2,7 +2,7 @@
 
 $host = "sql100.infinityfree.com";
 $user = "iF0_40602448";
-$pass = "YOUR_PANEL_PASSWORD";
+$pass = "yureiK1ng";
 $db   = "iF0_40602448_crud_app";
 
 // Create connection
