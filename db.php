@@ -2,7 +2,7 @@
 
 $host = "sql100.infinityfree.com";
 $user = "iF0_40602448";
-$pass = "pheonixK1ng" your infinityFree password
+$pass = "pheonixK1ng";your infinityFree password
 $db   = "iF0_40602448_crud_app";
 
 // Create connection
